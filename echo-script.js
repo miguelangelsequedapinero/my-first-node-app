@@ -15,4 +15,4 @@ const printF = textAsArray.forEach((line) => {
 
                 const  textAsArrayValues = seeMore.split(', ')
                 console.log(textAsArrayValues[2])
-              })
+              });
